@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 public class TheGrid {
 
     String[][] i = new String[][]{
